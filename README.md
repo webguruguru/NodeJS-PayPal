@@ -31,5 +31,4 @@ Happy to have a look at pull requests
 
 ### Author
 
-**Tim Messerschmidt**
-[github.com/seraphimserapis](https://github.com/seraphimserapis)
+[github.com/webDeveloper-R](https://github.com/webDeveloper-R)
