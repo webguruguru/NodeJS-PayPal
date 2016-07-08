@@ -3,6 +3,8 @@ html
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
-  body!= body
+    script(src='/libs/jquery.min.js')
+    script(src='/javascripts/app.js')
+  body
+
     block content
-      h1 My content goes here!

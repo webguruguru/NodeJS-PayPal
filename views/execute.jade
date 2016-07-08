@@ -1,8 +1,8 @@
 extends layout
 
 block content
-   -var payment_details = JSON.stringify(payment, null, 2);
+	- var payment_details = JSON.stringify(payment, null, 2);
 
-   h1 Payment got executed !
-   pre
-      p=payment_details
+	h1 Payment got executed!
+	pre
+		p= payment_details
